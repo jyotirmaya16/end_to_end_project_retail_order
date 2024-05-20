@@ -1,7 +1,8 @@
 # Retail order Data Visualisation: Trends and Insights
-### Preview
+### Preview 
+https://public.tableau.com/app/profile/jyotirmaya.maharana/viz/RetailOrderDataVisualization_TrendsandInsights/Dashboard1
 
-![preview](https://github.com/jyotirmaya16/end_to_end_project_retail_order/assets/146333462/381dfa15-7df9-4c08-bb09-623d55736b7b)
+![preview]( https://github.com/jyotirmaya16/end_to_end_project_retail_order/assets/146333462/381dfa15-7df9-4c08-bb09-623d55736b7b)
 
 ## Project Overview
 This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.
