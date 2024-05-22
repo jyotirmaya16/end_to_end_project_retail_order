@@ -1,6 +1,6 @@
 # Retail order Data Visualisation: Trends and Insights
 ### Preview 
-#### Link to site: [click her👆🏻](https://public.tableau.com/app/profile/jyotirmaya.maharana/viz/RetailOrderDataVisualization_TrendsandInsights/Dashboard1) name
+#### Link to site: [click her👆🏻](https://public.tableau.com/app/profile/jyotirmaya.maharana/viz/RetailOrderDataVisualization_TrendsandInsights/Dashboard1) 
 
 ![preview]( https://github.com/jyotirmaya16/end_to_end_project_retail_order/assets/146333462/381dfa15-7df9-4c08-bb09-623d55736b7b)
 
